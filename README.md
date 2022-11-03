@@ -1,5 +1,5 @@
 # PLASMA-DONOR
-https://drive.google.com/file/d/1e5y33WqXTJb6GJD2Uu0_Jn9vUzS-fmUg/view?usp=share_link
+https://s3.ap-south-1.amazonaws.com/healthinsurances3.com/prod/imagegallery/plasma-donor.jpg
 TECHNOLOGY : Cloud Application 
 IBM-Project-PNT2022TMID43621
 
